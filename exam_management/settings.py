@@ -43,6 +43,10 @@ INSTALLED_APPS = [
 
 AUTH_USER_MODEL = 'core.User'
 
+LOGIN_URL = 'core:login'
+LOGIN_REDIRECT_URL = 'core:dashboard'  # Redirect after login to the dashboard
+LOGOUT_REDIRECT_URL = 'core:home'  # Redirect after logout to the home page
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -58,7 +62,7 @@ ROOT_URLCONF = 'exam_management.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / 'core/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
