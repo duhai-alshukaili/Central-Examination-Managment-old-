@@ -1,6 +1,7 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin as DefaultUserAdmin
 from core.models import User, Department, Lecturer, Student
+from core.models import Course, Section
 
 # Customizing the UserAdmin for your custom User model
 @admin.register(User)
@@ -44,6 +45,13 @@ class LecturerAdmin(UserAdmin):
     list_filter = ('user_type', 'department', 'is_lecturer', 'is_invigilator', 'is_exam_committee_member')
     search_fields = ('username', 'email')
 
+    def get_queryset(self, request):
+        """
+        Override the queryset to only display users with 'academic' user_type.
+        """
+        qs = super().get_queryset(request)
+        return qs.filter(user_type=User.ACADEMIC_STAFF)
+
     def get_changeform_initial_data(self, request):
         # Pre-fill the user_type as "Academic Staff" when adding a Lecturer
         return {'user_type': User.ACADEMIC_STAFF, 'is_lecturer': True, 'is_invigilator': True}
@@ -56,6 +64,13 @@ class StudentAdmin(UserAdmin):
     list_filter = ('user_type', 'department')
     search_fields = ('username', 'email')
 
+    def get_queryset(self, request):
+        """
+        Override the queryset to only display users with 'student' user_type.
+        """
+        qs = super().get_queryset(request)
+        return qs.filter(user_type=User.STUDENT)
+
     def get_changeform_initial_data(self, request):
         # Pre-fill the user_type as "Student" when adding a Student
         return {'user_type': User.STUDENT}
@@ -65,3 +80,44 @@ class StudentAdmin(UserAdmin):
 class DepartmentAdmin(admin.ModelAdmin):
     list_display = ('name', 'email', 'phone_number')
     search_fields = ('name',)
+
+
+@admin.register(Course)
+class CourseAdmin(admin.ModelAdmin):
+    # Fields to display in the course list view
+    list_display = ('code', 'name', 'coordinator', 'department')
+    list_filter = ('department',)  # Add filter by department
+    search_fields = ('code', 'name')  # Enable searching by course code and name
+
+    # Optional: Customize the form layout in the admin
+    fieldsets = (
+        (None, {
+            'fields': ('code', 'name', 'coordinator', 'department'),
+        }),
+    )
+
+    # Override the form field's queryset for the coordinator field
+    def formfield_for_foreignkey(self, db_field, request, **kwargs):
+        if db_field.name == "coordinator":
+            kwargs["queryset"] = User.objects.filter(user_type=User.ACADEMIC_STAFF)
+        return super().formfield_for_foreignkey(db_field, request, **kwargs)
+
+@admin.register(Section)
+class SectionAdmin(admin.ModelAdmin):
+    # Fields to display in the section list view
+    list_display = ('course', 'number', 'lecturer')
+    list_filter = ('course__department', 'lecturer')  # Filter by department and lecturer
+    search_fields = ('course__code', 'course__name')  # Enable search by course code and name
+
+    # Optional: Customize the form layout in the admin
+    fieldsets = (
+        (None, {
+            'fields': ('course', 'number', 'lecturer'),
+        }),
+    )
+
+    # Override the form field's queryset for the lecturer field
+    def formfield_for_foreignkey(self, db_field, request, **kwargs):
+        if db_field.name == "lecturer":
+            kwargs["queryset"] = User.objects.filter(user_type=User.ACADEMIC_STAFF)
+        return super().formfield_for_foreignkey(db_field, request, **kwargs)

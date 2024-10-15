@@ -1,5 +1,6 @@
 from django.contrib.auth.models import AbstractUser
 from django.db import models
+from django.core.validators import MinLengthValidator, MinValueValidator, MaxValueValidator
 
 
 class Department(models.Model):
@@ -111,7 +112,24 @@ class User(AbstractUser):
     can_view_all_statistics = models.BooleanField(default=False)
 
     def __str__(self):
-        return self.username
+        # Construct the display name with prefix, first name, last name, and username (if available)
+        parts = []
+
+        if self.prefix:
+            parts.append(self.prefix)
+        if self.first_name:
+            parts.append(self.first_name)
+        if self.last_name:
+            parts.append(self.last_name)
+
+        # Join the available parts with spaces
+        display_name = ' '.join(parts)
+
+        # If no meaningful name parts are available, just return the username
+        if display_name:
+            return f"{display_name} ({self.username})"
+        else:
+            return self.username
 
 
 class Lecturer(User):
@@ -149,3 +167,29 @@ class Student(User):
         # Ensure that the user type is set to Student
         self.user_type = User.STUDENT
         super(Student, self).save(*args, **kwargs)
+
+class Course(models.Model):
+    code = models.CharField(max_length=15,
+                            validators=[MinLengthValidator(2)])
+    name = models.CharField(max_length=255, 
+                            validators=[MinLengthValidator(2)])
+    coordinator = models.ForeignKey('Lecturer', on_delete=models.SET_NULL, null=True, blank=True)
+    department  = models.ForeignKey('Department', on_delete=models.CASCADE)
+
+
+    def __str__(self):
+        # Return a string combining the course code and name
+        return f"{self.code} - {self.name}"
+
+class Section(models.Model):
+    number = models.PositiveIntegerField(
+        validators=[MinValueValidator(1), MaxValueValidator(200)],
+        help_text='Section or group number for the course '
+    )
+    course = models.ForeignKey('Course', on_delete=models.CASCADE)
+    lecturer = models.ForeignKey('Lecturer', on_delete=models.SET_NULL, null=True)
+
+    def __str__(self):
+        # Return a string combining course info and section number
+        return f"{self.course.code} - {self.course.name} <S{self.number}>"
+    
