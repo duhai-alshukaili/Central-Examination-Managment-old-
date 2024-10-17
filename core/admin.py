@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin as DefaultUserAdmin
 from core.models import User, Department, Lecturer, Student
-from core.models import Course, Section
+from core.models import Course, Section, Room
 
 # Customizing the UserAdmin for your custom User model
 @admin.register(User)
@@ -121,3 +121,19 @@ class SectionAdmin(admin.ModelAdmin):
         if db_field.name == "lecturer":
             kwargs["queryset"] = User.objects.filter(user_type=User.ACADEMIC_STAFF)
         return super().formfield_for_foreignkey(db_field, request, **kwargs)
+
+@admin.register(Room)
+class RoomAdmin(admin.ModelAdmin):
+    # Fields to display in the list view
+    list_display = ('label', 'room_type_display', 'campus', 'capacity', 'block')
+
+    # Fields to filter by in the right sidebar
+    list_filter = ('room_type', 'campus', 'block')
+
+    # Enable searching by label and block
+    search_fields = ('label', 'block')
+
+    # Customize the form field's display name for room_type
+    def room_type_display(self, obj):
+        return dict(Room.ROOM_TYPE_CHOICES).get(obj.room_type, 'Unknown')
+    room_type_display.short_description = 'Room Type'

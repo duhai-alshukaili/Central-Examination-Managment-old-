@@ -5,7 +5,7 @@ from django.core.validators import MinLengthValidator, MinValueValidator, MaxVal
 
 class Department(models.Model):
     name = models.CharField(max_length=255)  # Department name
-    email = models.EmailField(null=True, blank=True)  # Nullable email
+    email = models.EmailField(null=True, blank=True, unique=True)  # Nullable email
     phone_number = models.CharField(max_length=15, null=True, blank=True)  # Nullable phone number
 
     def __str__(self):
@@ -192,4 +192,59 @@ class Section(models.Model):
     def __str__(self):
         # Return a string combining course info and section number
         return f"{self.course.code} - {self.course.name} <S{self.number}>"
+
+class Room(models.Model):
+    # Room types
+    CLASS_ROOM = 10
+    COMPUTER_LAB = 20
+    PHYSICS_LAB = 30
+    CHEMISTRY_LAB = 40
+    CAD_WORKSHOP = 50
+    LECTURE_HALL = 60
+
+    ROOM_TYPE_CHOICES = [
+        (CLASS_ROOM, 'Classroom'),
+        (COMPUTER_LAB, 'Computer Lab'),
+        (PHYSICS_LAB, 'Physics Lab'),
+        (CHEMISTRY_LAB, 'Chemistry Lab'),
+        (CAD_WORKSHOP, 'CAD Workshop'),
+        (LECTURE_HALL, 'Lecture Hall'),
+    ]
+
+    # Campuses
+    SA = 'SA'
+    AK = 'AK'
+
+    CAMPUS_CHOICES = [
+        (SA, 'Al Saada Campus'),
+        (AK, 'Al Akhdar Campus')
+    ]
+
+        
+    label = models.CharField(max_length=15, 
+                             validators=[MinLengthValidator(2)])
     
+    room_type = models.PositiveIntegerField(choices=ROOM_TYPE_CHOICES)
+
+    campus = models.CharField(max_length=10,
+                              validators=[MinLengthValidator(2)], choices=CAMPUS_CHOICES)
+    
+    capacity = models.PositiveBigIntegerField()
+
+    block = models.CharField(max_length=15, validators=[MinLengthValidator(2)])
+
+    class Meta:
+        # Adding a unique constraint for the combination of label and campus
+        constraints = [
+            models.UniqueConstraint(fields=['label', 'campus'], name='unique_room_label_campus')
+        ]
+
+    def __str__(self):
+        # Return the room label and campus in the desired format
+        campus_name = dict(self.CAMPUS_CHOICES).get(self.campus, 'Unknown Campus')
+        return f"{self.label} ({campus_name})"
+
+   
+
+
+

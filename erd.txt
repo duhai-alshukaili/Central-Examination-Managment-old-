@@ -4,9 +4,11 @@ Department(departmentID, departmentName)
 UserRole(userRoleID, userID, roleID)
 Course(courseID, courseName, coordinatorID, departmentID, other relevant course information)
 CourseSection(sectionID, courseID, lecturerID, sectionNumber, numOfStudents)
-ExamRoom(roomID, roomNumber, type(e.g., classroom, lab, ..), block, campus, capacity)
+ExamRoom(roomID, label, type(e.g., classroom, lab, ..), block, campus, capacity)
+
 ExamSchedule(scheduleID, roomID, sectionID, examDate, examTime, duration)
 CourseRegistration(registrationID, studentID, sectionID)
+
 InvigilationAssignment(assignmentID, scheduleID, lecturerID, other relevant invigilation details)
 BundleTable(bundleID, scheduleID, lecturerID, bundleStatus (received, released, returned, collected))
 Report(reportID, sceduleID, cheifInvigilatorID, reportDate, reportDetails)
