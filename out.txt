@@ -1,0 +1,2025 @@
+Processed: Student 72J2040, Lecturer 2497, Course Advanced Information Security
+Processed: Student 146S2227, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76J2214, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76J2226, Lecturer 2497, Course Advanced Information Security
+Processed: Student 71J20995, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76J2256, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76J226, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76S2125, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76S2116, Lecturer 2497, Course Advanced Information Security
+Processed: Student 2021593028, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76J2124710, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76S213, Lecturer 2497, Course Advanced Information Security
+Processed: Student 2021593033, Lecturer 2497, Course Advanced Information Security
+Processed: Student 2020593160, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76S2229, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76S219, Lecturer 2497, Course Advanced Information Security
+Processed: Student 2021593006, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76J2245, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76J222, Lecturer 2497, Course Advanced Information Security
+Processed: Student 2021593067, Lecturer 2497, Course Advanced Information Security
+Processed: Student 2021593044, Lecturer 2497, Course Advanced Information Security
+Processed: Student 76S2123, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 76J2124, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2021593061, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2021593048, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2021593073, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 76S225, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 76S2240, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 76S2019, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2021593052, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2021593037, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2021593035, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2020593148, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2021593057, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 76J2117, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 76S2122, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 2021593070, Lecturer 70621648, Course Advanced Information Security
+Processed: Student 76J186, Lecturer 140656535, Course Advanced Object Oriented Programming
+Processed: Student 72S1894, Lecturer 2497, Course Advanced Topics in Information Security
+Processed: Student 76J202, Lecturer 2497, Course Advanced Topics in Information Security
+Processed: Student 76S2027, Lecturer 2497, Course Advanced Topics in Information Security
+Processed: Student 76S1810, Lecturer 2497, Course Advanced Topics in Information Security
+Processed: Student 76S191, Lecturer 2497, Course Advanced Topics in Information Security
+Processed: Student 76J211, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76J1914, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76J2122, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76S2120, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76S2021, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76J2044, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76J215, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76S1924, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 2021593040, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76S216, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76S2129, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 2021593050, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76S2023, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 2021593043, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76J2027, Lecturer 706013, Course Advanced Web Technologies
+Processed: Student 76J186, Lecturer 70621645, Course Applied data science
+Processed: Student 76J1815, Lecturer 70621645, Course Applied data science
+Processed: Student 76S1749, Lecturer 70621645, Course Applied data science
+Processed: Student 76S1822, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76S199, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 72S1894, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76S1812, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76J202, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76J2028, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76S2027, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76S1821, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76J218, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76J1868, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76S1925, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76S195, Lecturer 70645378, Course Authentication and Access Control
+Processed: Student 76S1910, Lecturer 706073, Course B-Tech Course Project I
+Processed: Student 76S1821, Lecturer 70632175, Course B-Tech Course Project I
+Processed: Student 76J1868, Lecturer 3282, Course B-Tech Course Project I
+Processed: Student 76J1875, Lecturer 70645378, Course B-Tech Course Project II
+Processed: Student 76S1814, Lecturer 70645378, Course B-Tech Course Project II
+Processed: Student 76J1712, Lecturer 70632175, Course B-Tech Course Project II
+Processed: Student 76S1817, Lecturer 70632175, Course B-Tech Course Project II
+Processed: Student 76J186, Lecturer 706061, Course B-tech Project I
+Processed: Student 76J1815, Lecturer 706073, Course B-tech Project II
+Processed: Student 76S1749, Lecturer 706073, Course B-tech Project II
+Processed: Student 76S2230, Lecturer 706025, Course CALCULUS 1
+Processed: Student 146S2229, Lecturer 706025, Course CALCULUS 1
+Processed: Student 76J2240, Lecturer 706025, Course CALCULUS 1
+Processed: Student 146S22133, Lecturer 706025, Course CALCULUS 1
+Processed: Student 76J23133, Lecturer 706025, Course CALCULUS 1
+Processed: Student 76S2212, Lecturer 706025, Course CALCULUS 1
+Processed: Student 76J2248, Lecturer 706025, Course CALCULUS 1
+Processed: Student 76S230178, Lecturer 706072, Course CALCULUS 1
+Processed: Student 76J23130, Lecturer 706072, Course CALCULUS 1
+Processed: Student 76S2220, Lecturer 706025, Course CALCULUS 1
+Processed: Student 46S2223, Lecturer 73465287, Course CALCULUS 1
+Processed: Student 146S22193, Lecturer 73465287, Course CALCULUS 1
+Processed: Student 76S2226, Lecturer 70654884, Course CALCULUS 1
+Processed: Student 76J2268, Lecturer 70654884, Course CALCULUS 1
+Processed: Student 76J2247, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22100, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J2250, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S2230, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S2262, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22215, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22208, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22109, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S230150, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 2021593033, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J2215, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S2291, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J23129, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S2229, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J2238, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J2237, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22178, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S230159, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 2021593076, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 36S228, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 116S22102, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22103, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22101, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S2256, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22170, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J2221, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22141, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22207, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 2021593045, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J229, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S2243, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S2231, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S224, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J2211, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S2227, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 2021593038, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 2021593034, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J23153, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22174, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76J2251, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 2021593018, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S2246, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S2213, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S2211, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S2217, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22121, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 76S2221, Lecturer 140856807, Course CALCULUS 1
+Processed: Student 146S22142, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S2297, Lecturer 1749, Course CALCULUS 1
+Processed: Student 16J2291, Lecturer 1749, Course CALCULUS 1
+Processed: Student 72J2337067, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S226, Lecturer 1749, Course CALCULUS 1
+Processed: Student 116S22103, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22169, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S229, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S2243, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22137, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22111, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22112, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S2269, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S2245, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22127, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J2312, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76S2219, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76S2242, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76S2238, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22171, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S2289, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22177, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J23131, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J221, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76S2244, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J2220, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S2227, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76S2247, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22102, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22150, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S2215, Lecturer 1749, Course CALCULUS 1
+Processed: Student 72J2220, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S2226, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22217, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J2246, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22184, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J2262, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76S2224, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J23138, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J228, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76S2215, Lecturer 1749, Course CALCULUS 1
+Processed: Student 146S22176, Lecturer 1749, Course CALCULUS 1
+Processed: Student 26S22173, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J2222, Lecturer 1749, Course CALCULUS 1
+Processed: Student 2021593021, Lecturer 1749, Course CALCULUS 1
+Processed: Student 2021593080, Lecturer 1749, Course CALCULUS 1
+Processed: Student 76J225, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22105, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J2218, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22136, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 2021593048, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 2021593010, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 2021593011, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22189, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J2110, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22124, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S225, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J2243, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J23119, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22192, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S2292, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S2276, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76S2237077, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J2217, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S2222, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S2288, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22173, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S223, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22140, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76S23023, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J2310, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76S2239, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 2021593015, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22125, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J23144, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J2241, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S22191, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J23105, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76S2223, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S2212, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 146S2249, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J24218, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 2021593071, Lecturer 140156198, Course CALCULUS 1
+Processed: Student 76J2039, Lecturer 140156198, Course Calculus I
+Processed: Student 76J20988, Lecturer 140156198, Course Calculus I
+Processed: Student 76S202, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1942, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J209, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J206, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J1915, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1812, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J202, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S196, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1915, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2046, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1810, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J20990, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2020, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S195, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S197, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2033, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2031, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S191, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S199, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1926, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S2021, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2010, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2125265, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2028, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1917, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2051, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J218, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2044, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1920, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1945, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2023, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S1936, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2018, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S193, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76S2011, Lecturer 70655088, Course Cloud Computing Fundamentals
+Processed: Student 76J2031, Lecturer 706055, Course Computer Architecture and Organization
+Processed: Student 76S1910, Lecturer 706055, Course Computer Architecture and Organization
+Processed: Student 76J2125265, Lecturer 706055, Course Computer Architecture and Organization
+Processed: Student 76S1945, Lecturer 706055, Course Computer Architecture and Organization
+Processed: Student 76J2124711, Lecturer 706055, Course Computer Architecture and Organization
+Processed: Student 76J2018, Lecturer 706055, Course Computer Architecture and Organization
+Processed: Student 76J239, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22168, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 56J2378, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22154, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22217, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2255, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2337081, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22111, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2317, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2214, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2231, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2290, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2382, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 46S22291, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2389, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2363, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 16J235, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22175, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2222, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2217, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2335, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J24073, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2362, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 2020393083, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22120, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2273, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22119, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2357, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2361, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2343, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2377, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 116S22102, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S22155, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S2229, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S22156, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S2285, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S22153, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S22216, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76J2249, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S22135, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 2021593045, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 2021593010, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S22112, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S2248, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76J23152, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76S2302, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76S2231, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76J23144, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76J23138, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76J2370, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76S2237, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S22219, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 146S22190, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76S2214, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76J2348, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76S2212, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76J2248, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 2021593064, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 76J24218, Lecturer 3282, Course Computer Networking Fundamentals
+Processed: Student 136S226, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2298, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22160, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22152, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22169, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22208, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2210, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2324, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22186, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2316, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S230167, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2384, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2398, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S2222, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2250, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S223, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2289, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S24210, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 46J2335, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2223, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 2021593080, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22199, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2327, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2270, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2352, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2368, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S23060, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S2226, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S230117, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2234, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2234, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 46S22176, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2276, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22212, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J225, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2269, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2216, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2223, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 72J2337067, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2210, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2268, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J240185, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2283, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2263, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22138, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76S230148, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2267, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2318, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S2237, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76S2239, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22130, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2243, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76S230110, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76J2238, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22180, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22193, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22196, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76S2223, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 76S23056, Lecturer 70654586, Course Computer Networking Fundamentals
+Processed: Student 146S22147, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S23062, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22143, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S23081, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2296, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22104, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22157, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2232, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S230134, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2229, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2260, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2383, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22110, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22131, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22134, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 2021593042, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2314, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 66J2372, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S2228, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 2021593034, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76S23049, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22192, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22179, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2257, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S22202, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2271, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2292, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 76J2337, Lecturer 140659883, Course Computer Networking Fundamentals
+Processed: Student 146S2274, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22148, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 66S22178, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22162, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22106, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22158, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22214, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22215, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S2268, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76J238, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S224, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76S23097, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S2242, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S2228, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76S2232, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76J2337075, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76S2224, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76J2366, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76J236, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76J2242, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76J2376, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76S2220, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76J23151, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22178, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76J2212, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 2021593021, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22200, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S22194, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 76S228, Lecturer 2350, Course Computer Networking Fundamentals
+Processed: Student 146S2295, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 146S22103, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 146S2240, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 146S2230, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S23025, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 146S2245, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S23038, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2239, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S2219, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2211, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2353, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J232, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2399, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S23086, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S2227, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S2242, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2237, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S2238, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 146S22177, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2251, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S2211, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J23125, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2329, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J23135, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2322, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 146S22114, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J2254, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 2021593071, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76S2221, Lecturer 70670488, Course Computer Networking Fundamentals
+Processed: Student 76J1904, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S2015, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S2126, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 146S22144, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S217, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 2021593007, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 2021593065, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 2021584055, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76J2028, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S204, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S2020, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76J2041, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S2024, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 2021593020, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S2016, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 2021593001, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S2011, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76J2042, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76J191, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 72S19124, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S2010, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76J1910, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76J20990, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76S1936, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 76J2019, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 2021593025, Lecturer 706063, Course Data Structures and Algorithms
+Processed: Student 146S22166, Lecturer 706021, Course Database Systems
+Processed: Student 76J2218, Lecturer 706021, Course Database Systems
+Processed: Student 2021593068, Lecturer 706021, Course Database Systems
+Processed: Student 146S22108, Lecturer 706021, Course Database Systems
+Processed: Student 2021593049, Lecturer 706021, Course Database Systems
+Processed: Student 146S22221, Lecturer 706021, Course Database Systems
+Processed: Student 2021593074, Lecturer 706021, Course Database Systems
+Processed: Student 2021593032, Lecturer 706021, Course Database Systems
+Processed: Student 2021593041, Lecturer 706021, Course Database Systems
+Processed: Student 2021593083, Lecturer 706021, Course Database Systems
+Processed: Student 76S2135, Lecturer 706021, Course Database Systems
+Processed: Student 76J2337252, Lecturer 706021, Course Database Systems
+Processed: Student 76J2231, Lecturer 706021, Course Database Systems
+Processed: Student 76J227, Lecturer 706021, Course Database Systems
+Processed: Student 2021593022, Lecturer 706021, Course Database Systems
+Processed: Student 76S229, Lecturer 706021, Course Database Systems
+Processed: Student 76S2110, Lecturer 706021, Course Database Systems
+Processed: Student 2021593063, Lecturer 706021, Course Database Systems
+Processed: Student 146S2211, Lecturer 706012, Course Database Systems
+Processed: Student 76J23149, Lecturer 706012, Course Database Systems
+Processed: Student 146S2225, Lecturer 706012, Course Database Systems
+Processed: Student 76S1940, Lecturer 706012, Course Database Systems
+Processed: Student 2021584089, Lecturer 706012, Course Database Systems
+Processed: Student 76S2124, Lecturer 706012, Course Database Systems
+Processed: Student 76S211, Lecturer 706012, Course Database Systems
+Processed: Student 76S2127, Lecturer 706012, Course Database Systems
+Processed: Student 76S218, Lecturer 706012, Course Database Systems
+Processed: Student 76J2213, Lecturer 706012, Course Database Systems
+Processed: Student 146S22118, Lecturer 706012, Course Database Systems
+Processed: Student 2021593001, Lecturer 706012, Course Database Systems
+Processed: Student 146S22144, Lecturer 719007, Course Diploma Course Project
+Processed: Student 2021593075, Lecturer 706054, Course Diploma Course Project
+Processed: Student 76S2128, Lecturer 706054, Course Diploma Course Project
+Processed: Student 76J20988, Lecturer 719007, Course Diploma Course Project
+Processed: Student 2021593006, Lecturer 706054, Course Diploma Course Project
+Processed: Student 2021593016, Lecturer 706054, Course Diploma Course Project
+Processed: Student 76J20992, Lecturer 719007, Course Diploma Course Project
+Processed: Student 76S2126, Lecturer 70654582, Course Diploma Course Project
+Processed: Student 76S2116, Lecturer 70654586, Course Diploma Course Project
+Processed: Student 2021593028, Lecturer 70654586, Course Diploma Course Project
+Processed: Student 2021593065, Lecturer 70654582, Course Diploma Course Project
+Processed: Student 2021584055, Lecturer 70654582, Course Diploma Course Project
+Processed: Student 76S219, Lecturer 70654586, Course Diploma Course Project
+Processed: Student 76S1923, Lecturer 70654586, Course Diploma Course Project
+Processed: Student 76S2015, Lecturer 719007, Course Diploma Course Project
+Processed: Student 72J21154, Lecturer 70654586, Course Diploma Course Project
+Processed: Student 76J2114, Lecturer 70654586, Course Diploma Course Project
+Processed: Student 76S2019, Lecturer 70654586, Course Diploma Course Project
+Processed: Student 76J2041, Lecturer 719007, Course Diploma Course Project
+Processed: Student 76J2117, Lecturer 70654586, Course Diploma Course Project
+Processed: Student 76S217, Lecturer 20654880, Course Diploma Course Project
+Processed: Student 76J2124710, Lecturer 706054, Course Diploma Course Project
+Processed: Student 76S2218, Lecturer 706054, Course Diploma Course Project
+Processed: Student 2021593053, Lecturer 706054, Course Diploma Course Project
+Processed: Student 2020593193, Lecturer 706054, Course Diploma Course Project
+Processed: Student 2021593020, Lecturer 20654880, Course Diploma Course Project
+Processed: Student 2021593001, Lecturer 20654880, Course Diploma Course Project
+Processed: Student 2021593007, Lecturer 20654880, Course Diploma Course Project
+Processed: Student 76S2124, Lecturer 20654880, Course Diploma Course Project
+Processed: Student 76J2039, Lecturer 20654880, Course Diploma Course Project
+Processed: Student 2021593052, Lecturer 706075, Course Diploma Course Project
+Processed: Student 2021593037, Lecturer 706075, Course Diploma Course Project
+Processed: Student 2021593035, Lecturer 706075, Course Diploma Course Project
+Processed: Student 2021593077, Lecturer 706075, Course Diploma Course Project
+Processed: Student 146S2221, Lecturer 70654582, Course Diploma Course Project
+Processed: Student 2021593039, Lecturer 70621648, Course Diploma Course Project
+Processed: Student 2021593057, Lecturer 70621648, Course Diploma Course Project
+Processed: Student 2021593056, Lecturer 70621648, Course Diploma Course Project
+Processed: Student 2021593059, Lecturer 70621648, Course Diploma Course Project
+Processed: Student 76J2013, Lecturer 2583, Course Diploma Course Project
+Processed: Student 2021593036, Lecturer 2583, Course Diploma Course Project
+Processed: Student 2021593019, Lecturer 2583, Course Diploma Course Project
+Processed: Student 2021593005, Lecturer 2583, Course Diploma Course Project
+Processed: Student 2021593062, Lecturer 2583, Course Diploma Course Project
+Processed: Student 76S191, Lecturer 70632175, Course Ethical Hacking
+Processed: Student 76S1812, Lecturer 70632175, Course Ethical Hacking
+Processed: Student 76S2027, Lecturer 70632175, Course Ethical Hacking
+Processed: Student 76S1914, Lecturer 70632175, Course Ethical Hacking
+Processed: Student 76J2135, Lecturer 70632175, Course Ethical Hacking
+Processed: Student 76S1920, Lecturer 70632175, Course Ethical Hacking
+Processed: Student 76S2017, Lecturer 70632175, Course Ethical Hacking
+Processed: Student 76J2120, Lecturer 70632175, Course Ethical Hacking
+Processed: Student 76J2031, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1822, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S202, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1826, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1942, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J197, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J209, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J204, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J206, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J1915, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J2010, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1915, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1917, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J186, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J2051, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J1916, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J2045, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J2046, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J1815, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S195, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 72S19153, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J2016, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1938, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1749, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J2033, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76J17579, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S186, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1913, Lecturer 506074, Course Fundamentals of Big Data
+Processed: Student 76S1749, Lecturer 140659883, Course Fundamentals of Computer Security
+Processed: Student 76J17579, Lecturer 140659883, Course Fundamentals of Computer Security
+Processed: Student 76S186, Lecturer 140659883, Course Fundamentals of Computer Security
+Processed: Student 76J2234, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22212, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2296, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2216, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2223, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2210, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 56J2378, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22158, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2229, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2260, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2263, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22215, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22216, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J238, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22110, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2317, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22134, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2312, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2337075, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 46S22291, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 66J2372, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2353, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23119, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S2228, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 16J235, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2362, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2329, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2273, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22162, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2298, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22152, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22214, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2255, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2383, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 2021593011, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2242, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22186, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S2302, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S230167, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2398, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2370, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22179, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 46J2335, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2217, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2327, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23131, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2335, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J24073, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2352, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 2020393083, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22119, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2368, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2357, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S23060, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2361, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S230117, Lecturer 2697, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2234, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 46S22176, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2295, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2240, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2230, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22156, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2283, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22153, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S23097, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2324, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2237, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S23038, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22130, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2248, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2214, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2231, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2290, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S230110, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2363, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2384, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2399, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22196, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2348, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23125, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2270, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23135, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2322, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22114, Lecturer 706011, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2297, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22148, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J240185, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22106, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2285, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22160, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2249, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22135, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2268, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2318, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2215, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 2021593042, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2228, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2316, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2314, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23129, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2250, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2238, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23130, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2242, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2376, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22219, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22190, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23151, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S2214, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22194, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2337, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S228, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S23056, Lecturer 2315, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2274, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S23062, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S23081, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 136S226, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2377, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22168, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22157, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22154, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2232, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S230134, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2310, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23152, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2382, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2389, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S2237, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22218, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23105, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S24210, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2257, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22200, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22202, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2271, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2292, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2254, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2343, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22147, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S2230, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22143, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 66S22178, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J239, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22155, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 72J2337067, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S23025, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22138, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S2219, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S230148, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2337081, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22131, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2239, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S2232, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2262, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S2222, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2366, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J236, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S223, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J23133, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76S23049, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22192, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22180, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22175, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 146S22120, Lecturer 406159, Course Fundamentals of Computing and Information Systems
+Processed: Student 76J2040, Lecturer 406159, Course Fundamentals of Information Technology
+Processed: Student 76J2019, Lecturer 406159, Course Fundamentals of Information Technology
+Processed: Student 76J20988, Lecturer 406159, Course Fundamentals of Information Technology
+Processed: Student 76J2036, Lecturer 406159, Course Fundamentals of Information Technology
+Processed: Student 76S1743, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76S1736, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76S1821, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76J1712, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76J1875, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76J1868, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76S1817, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 26S1810, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76S1841, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76S1814, Lecturer 70621648, Course IT Control and Audit
+Processed: Student 76J2260, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76S227, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76J2214, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 146S22104, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76J2226, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 71J20995, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76J2256, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76S2123, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76J2124, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76J226, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 146S2241, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76S2125, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2021593048, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2021593009, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76S225, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76S2240, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2021593033, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2021593002, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2020593160, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76J23150, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76S2229, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76J216, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2020593148, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2021593056, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76S2122, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2021593017, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2021593023, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76J222, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 2021593044, Lecturer 70621648, Course Internet of Things (IoT)
+Processed: Student 76S1825, Lecturer 70621648, Course Internet of Things Fundamentals
+Processed: Student 76J209, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76J204, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76J206, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S2120, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S1926, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76J2127, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S1915, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76J2046, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76J215, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S1924, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 2021593040, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S216, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S2129, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 2021593050, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 72S19153, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76J2016, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S1938, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S1947, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76S193, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 2021593043, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76J2027, Lecturer 70621645, Course Introduction to Artificial Intelligence
+Processed: Student 76J2013, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76J191, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76J1910, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76J2040, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S2019, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593052, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S1914, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76J218, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593036, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593039, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593016, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593019, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 66J1956, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593005, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593062, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S227, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S2010, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593075, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76J2124710, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2020593160, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76J216, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593053, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593056, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2020593193, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S1925, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S1923, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 2021593059, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S195, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S1936, Lecturer 70645378, Course Introduction to Cryptography
+Processed: Student 76S202, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 76J204, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 76J2122, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 76J1915, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 76S1926, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 76S196, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 76J2010, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 76J2127, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 72S19153, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 76S193, Lecturer 70621645, Course Introduction to Data Science
+Processed: Student 146S2234, Lecturer 140656535, Course Introduction to Database
+Processed: Student 46S22176, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S2295, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S2296, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S2216, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S2240, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S22160, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S2263, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J2324, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S2237, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76S23038, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S22130, Lecturer 140656535, Course Introduction to Database
+Processed: Student 2021593042, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76S230167, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J2384, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J2353, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J2399, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J2398, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J23133, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76S23049, Lecturer 140656535, Course Introduction to Database
+Processed: Student 46J2335, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S2223, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J2327, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J23125, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76S23056, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J2270, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J23135, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76J2368, Lecturer 140656535, Course Introduction to Database
+Processed: Student 76S23060, Lecturer 140656535, Course Introduction to Database
+Processed: Student 146S22154, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22156, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22106, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22153, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22135, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2255, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2310, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2248, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2363, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2314, Lecturer 2583, Course Introduction to Database
+Processed: Student 2021593034, Lecturer 2583, Course Introduction to Database
+Processed: Student 76S2214, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J23105, Lecturer 2583, Course Introduction to Database
+Processed: Student 76S230159, Lecturer 2583, Course Introduction to Database
+Processed: Student 2021593016, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2217, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2348, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J23131, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2335, Lecturer 2583, Course Introduction to Database
+Processed: Student 76S228, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22119, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2357, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2361, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2274, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22147, Lecturer 2583, Course Introduction to Database
+Processed: Student 76S2230, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2377, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22168, Lecturer 2583, Course Introduction to Database
+Processed: Student 56J2378, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2260, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22110, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22112, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22134, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2228, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2214, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2231, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S2290, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2312, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2382, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2337075, Lecturer 2583, Course Introduction to Database
+Processed: Student 46S22291, Lecturer 2583, Course Introduction to Database
+Processed: Student 66J2372, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J23119, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2366, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J236, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22199, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22200, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22202, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2337, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2329, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22120, Lecturer 2583, Course Introduction to Database
+Processed: Student 76J2343, Lecturer 2583, Course Introduction to Database
+Processed: Student 146S22148, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22212, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J2223, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22162, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22155, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S2298, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J240185, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S2285, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22152, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22214, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J2249, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S2268, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S2242, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J2317, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J2318, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J23152, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22186, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J2389, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J23129, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S2250, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J23130, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J2242, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J2376, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22218, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22219, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J23151, Lecturer 706073, Course Introduction to Database
+Processed: Student 76S24210, Lecturer 706073, Course Introduction to Database
+Processed: Student 146S22194, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J2362, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J24218, Lecturer 706073, Course Introduction to Database
+Processed: Student 76J201, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76J239, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S2210, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76S23025, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22138, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76S230148, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76J2337081, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22131, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76S2302, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76J2316, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76S23086, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76J2370, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22190, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22180, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22179, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22175, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22193, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22196, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S2271, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76J2352, Lecturer 70621645, Course Introduction to Database
+Processed: Student 2020393083, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76J2322, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S2273, Lecturer 70621645, Course Introduction to Database
+Processed: Student 146S22114, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76J2254, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76S230117, Lecturer 70621645, Course Introduction to Database
+Processed: Student 76J2247, Lecturer 706020, Course Introduction to Database
+Processed: Student 76J2234, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S23062, Lecturer 706020, Course Introduction to Database
+Processed: Student 146S22143, Lecturer 706020, Course Introduction to Database
+Processed: Student 66S22178, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S23081, Lecturer 706020, Course Introduction to Database
+Processed: Student 136S226, Lecturer 706020, Course Introduction to Database
+Processed: Student 72J2337067, Lecturer 706020, Course Introduction to Database
+Processed: Student 146S2232, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S230134, Lecturer 706020, Course Introduction to Database
+Processed: Student 146S2283, Lecturer 706020, Course Introduction to Database
+Processed: Student 76J2229, Lecturer 706020, Course Introduction to Database
+Processed: Student 76J2383, Lecturer 706020, Course Introduction to Database
+Processed: Student 76J238, Lecturer 706020, Course Introduction to Database
+Processed: Student 146S224, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S23097, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S230150, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S2232, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S230110, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S2222, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S2228, Lecturer 706020, Course Introduction to Database
+Processed: Student 16J235, Lecturer 706020, Course Introduction to Database
+Processed: Student 76S2237, Lecturer 706020, Course Introduction to Database
+Processed: Student 146S2257, Lecturer 706020, Course Introduction to Database
+Processed: Student 76J24073, Lecturer 706020, Course Introduction to Database
+Processed: Student 146S22142, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 146S2297, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 16J2291, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76S2247, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76J2269, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 146S226, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 146S22101, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 146S2226, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 146S22137, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76J2221, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 2021593068, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 2021593010, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 146S22109, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76J2246, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76J229, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76S2215, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 146S2224, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 26S22173, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 2021593018, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 146S2246, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76S2113, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76S2213, Lecturer 706075, Course Introduction to Information Security
+Processed: Student 76J2247, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 146S22100, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 76J2217, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 146S22150, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 146S2222, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 76J2013, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 76S230178, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 2021593011, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 146S22189, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 74J2117, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 76J2215, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 2021593002, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 2021593012, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 146S22184, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 46S2223, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 76J2262, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 2020593105, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 146S22193, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 146S2212, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 2021593064, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 2021593023, Lecturer 70654586, Course Introduction to Information Security
+Processed: Student 36S228, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76S2237077, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22102, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 116S22103, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S2288, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S2256, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22170, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S229, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S2243, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22140, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22141, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22207, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 2021593008, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 2021593045, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S2269, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22133, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 2021593066, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22125, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76S224, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76J23153, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22171, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22174, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76S2127, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 2021593076, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76S2217, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76J23147, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22105, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S2215, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 72J2220, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22173, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S223, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22136, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S2267, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 2021593009, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76S23023, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76J2110, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76S2243, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22127, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22124, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S225, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76J228, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22218, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22176, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22191, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 2021593017, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76J221, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S2249, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 146S22121, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76S2244, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76J2220, Lecturer 3800, Course Introduction to Information Security
+Processed: Student 76J2250, Lecturer 140659883, Course Introduction to Information Security
+Processed: Student 146S22104, Lecturer 140659883, Course Introduction to Information Security
+Processed: Student 146S2262, Lecturer 140659883, Course Introduction to Information Security
+Processed: Student 76J2240, Lecturer 140659883, Course Introduction to Information Security
+Processed: Student 76J23150, Lecturer 140659883, Course Introduction to Information Security
+Processed: Student 2021593004, Lecturer 140659883, Course Introduction to Information Security
+Processed: Student 76S1940, Lecturer 706055, Course Introduction to Operating Systems
+Processed: Student 76S1918, Lecturer 706055, Course Introduction to Operating Systems
+Processed: Student 76J2036, Lecturer 706055, Course Introduction to Operating Systems
+Processed: Student 36S228, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76S2247, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 146S22102, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 146S2222, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 146S22103, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 146S2226, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 146S229, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76J2240, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76J2246, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 146S2269, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 146S22133, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76S224, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76S2215, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76S2227, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 26S22173, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 2021593021, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76S2213, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76S2211, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 146S2212, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76S2217, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76S2221, Lecturer 20654880, Course Introduction to Programming
+Processed: Student 76J2247, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S22100, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S22150, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76J2250, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S22105, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S2215, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 72J2220, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S22173, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S2262, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76S2239, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76S2243, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S22184, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S2291, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76S2224, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76S23086, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76J2238, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76J2237, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 2020593105, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S22176, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76J2251, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 146S22178, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76J2212, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 2021593076, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76J221, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76S2244, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76J2220, Lecturer 140658381, Course Introduction to Programming
+Processed: Student 76J2217, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S2229, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S22169, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S22137, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S22111, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S2245, Lecturer 706011, Course Introduction to Programming
+Processed: Student 74J2117, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S2220, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76S2219, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76J23144, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76J232, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76S2242, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76S2238, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S22177, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76S2212, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76J2248, Lecturer 706011, Course Introduction to Programming
+Processed: Student 2021593064, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76S2237077, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22101, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S2288, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S2256, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22170, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22217, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22140, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22141, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22208, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22207, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 2021593009, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 76S230150, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 76S23023, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 2021593015, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 76J2239, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22125, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S225, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 76J2211, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 76J23138, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 76J23153, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S22174, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S2246, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 2021593005, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 2021593070, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 146S2249, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 76S2226, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 2021593071, Lecturer 140656535, Course Introduction to Programming
+Processed: Student 76S2026, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76J23147, Lecturer 706011, Course Introduction to Programming
+Processed: Student 116S22102, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S226, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76J2268, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S22157, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76S230178, Lecturer 706011, Course Introduction to Programming
+Processed: Student 46S2223, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76J228, Lecturer 706011, Course Introduction to Programming
+Processed: Student 2021593034, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S22191, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76J2222, Lecturer 706011, Course Introduction to Programming
+Processed: Student 2021593080, Lecturer 706011, Course Introduction to Programming
+Processed: Student 76S2223, Lecturer 706011, Course Introduction to Programming
+Processed: Student 146S2276, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76J225, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 116S22103, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S223, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S2243, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S2219, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76J2221, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S22136, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S2267, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S22109, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S22189, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76J229, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76J2110, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S22127, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S22124, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76J2243, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76S2231, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S22171, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S2289, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S2224, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76S230159, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S2223, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 2021593018, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 146S22121, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76J24218, Lecturer 140658387, Course Introduction to Programming
+Processed: Student 76J2260, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76S227, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76J2214, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76J2226, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76J2124, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76J226, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 146S2241, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76S2125, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76S225, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593002, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2020593160, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76J23150, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593052, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76S2218, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593035, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593057, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593053, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593056, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76J2245, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593023, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593005, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76J222, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593044, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 146S2227, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76J2256, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76S2123, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593033, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2020593193, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76S2122, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 76S2132, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 2021593067, Lecturer 706075, Course Introduction to Routing and Switching
+Processed: Student 16J2291, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 72J21154, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 146S22166, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S2123, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J2124, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J2114, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593008, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021584089, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 146S22108, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593049, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S225, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S2240, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593074, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593002, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S211, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593057, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S2127, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S218, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J2213, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S2132, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593017, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J20992, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S2110, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J2030, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J2260, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 72J2040, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S227, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 146S2211, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J2214, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J23149, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 146S2225, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J2226, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J226, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S2125, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593028, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593061, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593068, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593073, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J23150, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76S2135, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J2241, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593035, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2020593148, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593055, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J227, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 146S22118, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593062, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 2021593044, Lecturer 2315, Course Introduction to Software Engineering
+Processed: Student 76J191, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 72S19124, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 146S2241, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 2021593075, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76S213, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76J2210, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 146S22221, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 2021593032, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76S2019, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 2021593041, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 2021593083, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76S2128, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76J2337252, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76J2231, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 2021593037, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 2021593038, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 2021593059, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76S2122, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76J2116, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 2021593022, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76S2133, Lecturer 706006, Course Introduction to Software Engineering
+Processed: Student 76S1743, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76S1736, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76S1821, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76J1712, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76J1875, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76J1868, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76S1817, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 26S1810, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76S1841, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76S1814, Lecturer 70655088, Course Malware Analysis and Reverse Engineering
+Processed: Student 76S2026, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 76J23149, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 72S19124, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 146S2241, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593061, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593041, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 76S2135, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 76J2337252, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593035, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593077, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593055, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2020593105, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 76J227, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593022, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 76S229, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593023, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593004, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 2021593063, Lecturer 3808, Course Mathematics for Computing
+Processed: Student 72J2040, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S2126, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 146S2211, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 72J21154, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 71J20995, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 146S22166, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76J2114, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S2116, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593008, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593028, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593075, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 146S22108, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593049, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593074, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S211, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S2128, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S219, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593037, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593006, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593039, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S1923, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593059, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S2127, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S218, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593019, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593017, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 146S22118, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S2110, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593062, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593044, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76J2260, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 72S2192, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 146S2225, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021584089, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593068, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593009, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593073, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 146S22221, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S2240, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593032, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593083, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021584055, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593012, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S2218, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76J2045, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76J2231, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593036, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76J2212, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76J2213, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76J2116, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 76S2133, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 2021593070, Lecturer 140156198, Course Mathematics for Computing
+Processed: Student 66J1956, Lecturer 140156198, Course Mathematics for IT
+Processed: Student 76J2031, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S1826, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J197, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J209, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J206, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S181, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S1910, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2125265, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S1915, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S1917, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2051, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2046, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S1945, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2020, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2023, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2021, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S197, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2016, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S1938, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2124711, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S1947, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2018, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2033, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76S1933, Lecturer 70654582, Course Mobile Application Development
+Processed: Student 76J2030, Lecturer 70670488, Course Network Fundamentals II
+Processed: Student 76S1911, Lecturer 70655088, Course Network Security and Management
+Processed: Student 76S191, Lecturer 70655088, Course Network Security and Management
+Processed: Student 76S199, Lecturer 70655088, Course Network Security and Management
+Processed: Student 76J202, Lecturer 70655088, Course Network Security and Management
+Processed: Student 76S2027, Lecturer 70655088, Course Network Security and Management
+Processed: Student 76J218, Lecturer 70655088, Course Network Security and Management
+Processed: Student 76S1920, Lecturer 70655088, Course Network Security and Management
+Processed: Student 76S1810, Lecturer 70655088, Course Network Security and Management
+Processed: Student 76J1914, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76S2120, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76S181, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76J2010, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76J2127, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76J2046, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76J215, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76S1924, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 2021593040, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76S216, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76S2129, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76J2023, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76J2021, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 2021593050, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76S2023, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 72S19153, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76S1947, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76J2033, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 2021593043, Lecturer 3163, Course Object Oriented Analysis and Design
+Processed: Student 76J191, Lecturer 2698, Course Object Oriented Programming
+Processed: Student 76J1910, Lecturer 2698, Course Object Oriented Programming
+Processed: Student 76S1715, Lecturer 2698, Course Object Oriented Programming
+Processed: Student 76S2015, Lecturer 2698, Course Object-Oriented Programming
+Processed: Student 76S217, Lecturer 2698, Course Object-Oriented Programming
+Processed: Student 2021593020, Lecturer 2698, Course Object-Oriented Programming
+Processed: Student 2021593025, Lecturer 2698, Course Object-Oriented Programming
+Processed: Student 2021593001, Lecturer 2698, Course Object-Oriented Programming
+Processed: Student 76J1904, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 72S2192, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 76S2126, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 146S22144, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 76J211, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 2021593007, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 146S2221, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 76S2124, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 2021593065, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 2021584055, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 76S204, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 76S2020, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 76S2133, Lecturer 719007, Course Object-Oriented Programming
+Processed: Student 146S22142, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S2297, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J2269, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J2217, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S226, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22170, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S2243, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S2219, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22137, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J2221, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22141, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S2245, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J229, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22125, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2219, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J2211, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2242, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22171, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S2224, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22174, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22177, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 2021593018, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2113, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 2021593070, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 2021593071, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J2247, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76J23147, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22105, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2222, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 116S22103, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2226, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S229, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22136, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76S230178, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22109, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2269, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22133, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22127, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22184, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76S2224, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76S2215, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22191, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22178, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 26S22173, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76J2212, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76J2222, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 2021593076, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 2021593080, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76J221, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76S2244, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76J2220, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 36S228, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2247, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22102, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 116S22102, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22103, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S2262, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S223, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S2267, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J2246, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J2110, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2239, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2243, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J2243, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2231, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S224, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76J228, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2227, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 2021593038, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 2021593055, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2213, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2211, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2223, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2217, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22121, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 76S2221, Lecturer 706006, Course Principles of Operating Systems
+Processed: Student 146S22100, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22150, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22101, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2229, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 72J2220, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22173, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76S23023, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 2021593015, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2220, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2291, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76J23138, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76J232, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76S2238, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 2020593105, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S22176, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2246, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2212, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 146S2249, Lecturer 706055, Course Principles of Operating Systems
+Processed: Student 76J2250, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 146S2256, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 146S22207, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 146S225, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 76J23144, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 76J2241, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 2020593148, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 76J23153, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 2021593064, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 2021593004, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 2021593025, Lecturer 3408, Course Principles of Operating Systems
+Processed: Student 76J1914, Lecturer 3808, Course Probability and Statistics
+Processed: Student 72S1894, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S2120, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S181, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S2021, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J218, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J2135, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S2017, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J215, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S1924, Lecturer 3808, Course Probability and Statistics
+Processed: Student 2021593040, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J2120, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S216, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S2129, Lecturer 3808, Course Probability and Statistics
+Processed: Student 2021593050, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S2023, Lecturer 3808, Course Probability and Statistics
+Processed: Student 2021593043, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J2027, Lecturer 3808, Course Probability and Statistics
+Processed: Student 72S2192, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J211, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S1942, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J202, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J1916, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76S1920, Lecturer 3808, Course Probability and Statistics
+Processed: Student 76J2019, Lecturer 20654880, Course Programming I
+Processed: Student 76J2030, Lecturer 706011, Course Programming II
+Processed: Student 76S199, Lecturer 3163, Course Project Management and Acquisition
+Processed: Student 76S1920, Lecturer 3163, Course Project Management and Acquisition
+Processed: Student 76S197, Lecturer 3163, Course Project Management and Acquisition
+Processed: Student 76S1936, Lecturer 3163, Course Project Management and Acquisition
+Processed: Student 76S193, Lecturer 3163, Course Project Management and Acquisition
+Processed: Student 76S1933, Lecturer 3163, Course Project Management and Acquisition
+Processed: Student 76J2042, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 76S1911, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 72S1894, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 76S181, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 76J2045, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 76S2024, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 76J2021, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 76S2016, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 76S2011, Lecturer 2697, Course Project Management and Acquisition
+Processed: Student 76J2042, Lecturer 2697, Course Research Methodology
+Processed: Student 76S1911, Lecturer 2697, Course Research Methodology
+Processed: Student 76S1849, Lecturer 2697, Course Research Methodology
+Processed: Student 76J197, Lecturer 2697, Course Research Methodology
+Processed: Student 76S2010, Lecturer 2697, Course Research Methodology
+Processed: Student 76J204, Lecturer 2697, Course Research Methodology
+Processed: Student 76J2122, Lecturer 2697, Course Research Methodology
+Processed: Student 76J1915, Lecturer 2697, Course Research Methodology
+Processed: Student 76S1914, Lecturer 2697, Course Research Methodology
+Processed: Student 76J2127, Lecturer 2697, Course Research Methodology
+Processed: Student 76S1821, Lecturer 2697, Course Research Methodology
+Processed: Student 76J2135, Lecturer 2697, Course Research Methodology
+Processed: Student 76S2017, Lecturer 2697, Course Research Methodology
+Processed: Student 76J2120, Lecturer 2697, Course Research Methodology
+Processed: Student 76J20990, Lecturer 2697, Course Research Methodology
+Processed: Student 76J2020, Lecturer 2697, Course Research Methodology
+Processed: Student 76S195, Lecturer 2697, Course Research Methodology
+Processed: Student 76J2021, Lecturer 2697, Course Research Methodology
+Processed: Student 76S197, Lecturer 2697, Course Research Methodology
+Processed: Student 76S1715, Lecturer 706075, Course Routing & Switching Essentials
+Processed: Student 76S1743, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76S1736, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76S1821, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76J1712, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76J1875, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76J1868, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76S1817, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 26S1810, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76S1841, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76S1814, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76S2016, Lecturer 70632175, Course Security Operations Centre (SOC)
+Processed: Student 76J2031, Lecturer 706012, Course Software Design and Testing
+Processed: Student 76S1910, Lecturer 706012, Course Software Design and Testing
+Processed: Student 76J2125265, Lecturer 706012, Course Software Design and Testing
+Processed: Student 76S1945, Lecturer 706012, Course Software Design and Testing
+Processed: Student 76J2016, Lecturer 706012, Course Software Design and Testing
+Processed: Student 76J2124711, Lecturer 706012, Course Software Design and Testing
+Processed: Student 76J2018, Lecturer 706012, Course Software Design and Testing
+Processed: Student 76J186, Lecturer 706012, Course Software Design, Integration & Testing
+Processed: Student 76J1815, Lecturer 706012, Course Software Design, Integration & Testing
+Processed: Student 76S1749, Lecturer 706012, Course Software Design, Integration & Testing
+Processed: Student 76S2015, Lecturer 2497, Course Special Topics
+Processed: Student 72S2192, Lecturer 2497, Course Special Topics
+Processed: Student 146S22144, Lecturer 2497, Course Special Topics
+Processed: Student 76S217, Lecturer 2497, Course Special Topics
+Processed: Student 2021593007, Lecturer 2497, Course Special Topics
+Processed: Student 146S2221, Lecturer 2497, Course Special Topics
+Processed: Student 2021593065, Lecturer 2497, Course Special Topics
+Processed: Student 2021584055, Lecturer 2497, Course Special Topics
+Processed: Student 76S204, Lecturer 2497, Course Special Topics
+Processed: Student 76S2020, Lecturer 2497, Course Special Topics
+Processed: Student 76J20988, Lecturer 2497, Course Special Topics
+Processed: Student 76J2041, Lecturer 2497, Course Special Topics
+Processed: Student 2021593020, Lecturer 2497, Course Special Topics
+Processed: Student 76S229, Lecturer 2497, Course Special Topics
+Processed: Student 2021593001, Lecturer 2497, Course Special Topics
+Processed: Student 76J2030, Lecturer 706021, Course Structured Query Language
+Processed: Student 76S202, Lecturer 406159, Course User Experience Design
+Processed: Student 76J211, Lecturer 406159, Course User Experience Design
+Processed: Student 76J197, Lecturer 406159, Course User Experience Design
+Processed: Student 76J1914, Lecturer 406159, Course User Experience Design
+Processed: Student 76J209, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2122, Lecturer 406159, Course User Experience Design
+Processed: Student 76J206, Lecturer 406159, Course User Experience Design
+Processed: Student 76S2021, Lecturer 406159, Course User Experience Design
+Processed: Student 76S196, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2125265, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2127, Lecturer 406159, Course User Experience Design
+Processed: Student 76J1916, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2046, Lecturer 406159, Course User Experience Design
+Processed: Student 76S1924, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2020, Lecturer 406159, Course User Experience Design
+Processed: Student 2021593050, Lecturer 406159, Course User Experience Design
+Processed: Student 76S2023, Lecturer 406159, Course User Experience Design
+Processed: Student 76S197, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2124711, Lecturer 406159, Course User Experience Design
+Processed: Student 76S1947, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2018, Lecturer 406159, Course User Experience Design
+Processed: Student 76S193, Lecturer 406159, Course User Experience Design
+Processed: Student 76S1933, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2027, Lecturer 406159, Course User Experience Design
+Processed: Student 76J2042, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S1911, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S1942, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J199, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S199, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S1926, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S196, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J2028, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S1914, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J1916, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J2135, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S2017, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J2120, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S1810, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J20990, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S1825, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S2024, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J2023, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J2016, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S1938, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76J2124711, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S2011, Lecturer 70632175, Course Web Applications Security
+Processed: Student 76S23062, Lecturer 70654582, Course Web Development I
+Processed: Student 146S22143, Lecturer 70654582, Course Web Development I
+Processed: Student 146S22212, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2223, Lecturer 70654582, Course Web Development I
+Processed: Student 146S22162, Lecturer 70654582, Course Web Development I
+Processed: Student 72J2337067, Lecturer 70654582, Course Web Development I
+Processed: Student 146S2210, Lecturer 70654582, Course Web Development I
+Processed: Student 146S22157, Lecturer 70654582, Course Web Development I
+Processed: Student 146S2232, Lecturer 70654582, Course Web Development I
+Processed: Student 146S2283, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2229, Lecturer 70654582, Course Web Development I
+Processed: Student 146S22214, Lecturer 70654582, Course Web Development I
+Processed: Student 146S22138, Lecturer 70654582, Course Web Development I
+Processed: Student 2021593011, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2239, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2337075, Lecturer 70654582, Course Web Development I
+Processed: Student 76S230110, Lecturer 70654582, Course Web Development I
+Processed: Student 76J23119, Lecturer 70654582, Course Web Development I
+Processed: Student 76S2228, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2366, Lecturer 70654582, Course Web Development I
+Processed: Student 76J236, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2242, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2376, Lecturer 70654582, Course Web Development I
+Processed: Student 76J23151, Lecturer 70654582, Course Web Development I
+Processed: Student 146S22179, Lecturer 70654582, Course Web Development I
+Processed: Student 146S2257, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2329, Lecturer 70654582, Course Web Development I
+Processed: Student 76J2322, Lecturer 70654582, Course Web Development I
+Processed: Student 146S2274, Lecturer 706020, Course Web Development I
+Processed: Student 146S22148, Lecturer 706020, Course Web Development I
+Processed: Student 76J23147, Lecturer 706020, Course Web Development I
+Processed: Student 76S23081, Lecturer 706020, Course Web Development I
+Processed: Student 146S2288, Lecturer 706020, Course Web Development I
+Processed: Student 76S230134, Lecturer 706020, Course Web Development I
+Processed: Student 76S230148, Lecturer 706020, Course Web Development I
+Processed: Student 146S2268, Lecturer 706020, Course Web Development I
+Processed: Student 76J2383, Lecturer 706020, Course Web Development I
+Processed: Student 146S224, Lecturer 706020, Course Web Development I
+Processed: Student 146S2242, Lecturer 706020, Course Web Development I
+Processed: Student 76S230150, Lecturer 706020, Course Web Development I
+Processed: Student 76J2318, Lecturer 706020, Course Web Development I
+Processed: Student 146S22131, Lecturer 706020, Course Web Development I
+Processed: Student 146S2228, Lecturer 706020, Course Web Development I
+Processed: Student 146S2220, Lecturer 706020, Course Web Development I
+Processed: Student 76S2232, Lecturer 706020, Course Web Development I
+Processed: Student 76J23129, Lecturer 706020, Course Web Development I
+Processed: Student 76J232, Lecturer 706020, Course Web Development I
+Processed: Student 146S22180, Lecturer 706020, Course Web Development I
+Processed: Student 146S22196, Lecturer 706020, Course Web Development I
+Processed: Student 146S22200, Lecturer 706020, Course Web Development I
+Processed: Student 146S22202, Lecturer 706020, Course Web Development I
+Processed: Student 146S2271, Lecturer 706020, Course Web Development I
+Processed: Student 146S22194, Lecturer 706020, Course Web Development I
+Processed: Student 146S22114, Lecturer 706020, Course Web Development I
+Processed: Student 76J2254, Lecturer 706020, Course Web Development I
+Processed: Student 146S2295, Lecturer 719007, Course Web Development I
+Processed: Student 76J239, Lecturer 719007, Course Web Development I
+Processed: Student 136S226, Lecturer 719007, Course Web Development I
+Processed: Student 146S2240, Lecturer 719007, Course Web Development I
+Processed: Student 146S22156, Lecturer 719007, Course Web Development I
+Processed: Student 146S22106, Lecturer 719007, Course Web Development I
+Processed: Student 146S22160, Lecturer 719007, Course Web Development I
+Processed: Student 76S23025, Lecturer 719007, Course Web Development I
+Processed: Student 146S22153, Lecturer 719007, Course Web Development I
+Processed: Student 146S2219, Lecturer 719007, Course Web Development I
+Processed: Student 76J2337081, Lecturer 719007, Course Web Development I
+Processed: Student 76S23097, Lecturer 719007, Course Web Development I
+Processed: Student 76J2324, Lecturer 719007, Course Web Development I
+Processed: Student 76S23038, Lecturer 719007, Course Web Development I
+Processed: Student 146S2248, Lecturer 719007, Course Web Development I
+Processed: Student 76J2363, Lecturer 719007, Course Web Development I
+Processed: Student 76J2384, Lecturer 719007, Course Web Development I
+Processed: Student 76J2399, Lecturer 719007, Course Web Development I
+Processed: Student 76S2222, Lecturer 719007, Course Web Development I
+Processed: Student 76S2237, Lecturer 719007, Course Web Development I
+Processed: Student 76S2214, Lecturer 719007, Course Web Development I
+Processed: Student 76S230159, Lecturer 719007, Course Web Development I
+Processed: Student 146S2223, Lecturer 719007, Course Web Development I
+Processed: Student 76S2113, Lecturer 719007, Course Web Development I
+Processed: Student 76J2348, Lecturer 719007, Course Web Development I
+Processed: Student 76S228, Lecturer 719007, Course Web Development I
+Processed: Student 76J23125, Lecturer 719007, Course Web Development I
+Processed: Student 76J23135, Lecturer 719007, Course Web Development I
+Processed: Student 66S22178, Lecturer 20654880, Course Web Development I
+Processed: Student 146S22154, Lecturer 20654880, Course Web Development I
+Processed: Student 146S22158, Lecturer 20654880, Course Web Development I
+Processed: Student 146S22135, Lecturer 20654880, Course Web Development I
+Processed: Student 146S2255, Lecturer 20654880, Course Web Development I
+Processed: Student 76J238, Lecturer 20654880, Course Web Development I
+Processed: Student 76S2302, Lecturer 20654880, Course Web Development I
+Processed: Student 76J2316, Lecturer 20654880, Course Web Development I
+Processed: Student 76S230167, Lecturer 20654880, Course Web Development I
+Processed: Student 76J2353, Lecturer 20654880, Course Web Development I
+Processed: Student 76S23086, Lecturer 20654880, Course Web Development I
+Processed: Student 76J2398, Lecturer 20654880, Course Web Development I
+Processed: Student 76J2370, Lecturer 20654880, Course Web Development I
+Processed: Student 16J235, Lecturer 20654880, Course Web Development I
+Processed: Student 146S22190, Lecturer 20654880, Course Web Development I
+Processed: Student 146S22175, Lecturer 20654880, Course Web Development I
+Processed: Student 46J2335, Lecturer 20654880, Course Web Development I
+Processed: Student 146S2217, Lecturer 20654880, Course Web Development I
+Processed: Student 76J2327, Lecturer 20654880, Course Web Development I
+Processed: Student 76J24073, Lecturer 20654880, Course Web Development I
+Processed: Student 76J2352, Lecturer 20654880, Course Web Development I
+Processed: Student 2020393083, Lecturer 20654880, Course Web Development I
+Processed: Student 146S2273, Lecturer 20654880, Course Web Development I
+Processed: Student 146S22119, Lecturer 20654880, Course Web Development I
+Processed: Student 76J2368, Lecturer 20654880, Course Web Development I
+Processed: Student 76S23060, Lecturer 20654880, Course Web Development I
+Processed: Student 76J2361, Lecturer 20654880, Course Web Development I
+Processed: Student 76S230117, Lecturer 20654880, Course Web Development I
+Processed: Student 146S22147, Lecturer 2633, Course Web Development I
+Processed: Student 76S2230, Lecturer 2633, Course Web Development I
+Processed: Student 146S22168, Lecturer 2633, Course Web Development I
+Processed: Student 146S22155, Lecturer 2633, Course Web Development I
+Processed: Student 56J2378, Lecturer 2633, Course Web Development I
+Processed: Student 76J240185, Lecturer 2633, Course Web Development I
+Processed: Student 146S2285, Lecturer 2633, Course Web Development I
+Processed: Student 146S2260, Lecturer 2633, Course Web Development I
+Processed: Student 146S22110, Lecturer 2633, Course Web Development I
+Processed: Student 146S22134, Lecturer 2633, Course Web Development I
+Processed: Student 146S2231, Lecturer 2633, Course Web Development I
+Processed: Student 76J2312, Lecturer 2633, Course Web Development I
+Processed: Student 76J2382, Lecturer 2633, Course Web Development I
+Processed: Student 46S22291, Lecturer 2633, Course Web Development I
+Processed: Student 76J2389, Lecturer 2633, Course Web Development I
+Processed: Student 76J2314, Lecturer 2633, Course Web Development I
+Processed: Student 146S2250, Lecturer 2633, Course Web Development I
+Processed: Student 76J23130, Lecturer 2633, Course Web Development I
+Processed: Student 76S223, Lecturer 2633, Course Web Development I
+Processed: Student 76J23133, Lecturer 2633, Course Web Development I
+Processed: Student 146S22219, Lecturer 2633, Course Web Development I
+Processed: Student 146S22199, Lecturer 2633, Course Web Development I
+Processed: Student 76J2337, Lecturer 2633, Course Web Development I
+Processed: Student 76S23056, Lecturer 2633, Course Web Development I
+Processed: Student 146S22120, Lecturer 2633, Course Web Development I
+Processed: Student 76J2343, Lecturer 2633, Course Web Development I
+Processed: Student 146S2234, Lecturer 706073, Course Web Development I
+Processed: Student 46S22176, Lecturer 706073, Course Web Development I
+Processed: Student 76S2237077, Lecturer 706073, Course Web Development I
+Processed: Student 76J2377, Lecturer 706073, Course Web Development I
+Processed: Student 146S2296, Lecturer 706073, Course Web Development I
+Processed: Student 146S2216, Lecturer 706073, Course Web Development I
+Processed: Student 146S2298, Lecturer 706073, Course Web Development I
+Processed: Student 146S22152, Lecturer 706073, Course Web Development I
+Processed: Student 146S2263, Lecturer 706073, Course Web Development I
+Processed: Student 146S22216, Lecturer 706073, Course Web Development I
+Processed: Student 76J2317, Lecturer 706073, Course Web Development I
+Processed: Student 76J2310, Lecturer 706073, Course Web Development I
+Processed: Student 146S2237, Lecturer 706073, Course Web Development I
+Processed: Student 146S22130, Lecturer 706073, Course Web Development I
+Processed: Student 146S2214, Lecturer 706073, Course Web Development I
+Processed: Student 146S2290, Lecturer 706073, Course Web Development I
+Processed: Student 76J23152, Lecturer 706073, Course Web Development I
+Processed: Student 146S22186, Lecturer 706073, Course Web Development I
+Processed: Student 66J2372, Lecturer 706073, Course Web Development I
+Processed: Student 76S23049, Lecturer 706073, Course Web Development I
+Processed: Student 146S22192, Lecturer 706073, Course Web Development I
+Processed: Student 76J23105, Lecturer 706073, Course Web Development I
+Processed: Student 76S24210, Lecturer 706073, Course Web Development I
+Processed: Student 76J23131, Lecturer 706073, Course Web Development I
+Processed: Student 76J2335, Lecturer 706073, Course Web Development I
+Processed: Student 76J2362, Lecturer 706073, Course Web Development I
+Processed: Student 76J2270, Lecturer 706073, Course Web Development I
+Processed: Student 76J2357, Lecturer 706073, Course Web Development I
+Processed: Student 72J2040, Lecturer 140658387, Course Web Development II
+Processed: Student 146S2211, Lecturer 140658387, Course Web Development II
+Processed: Student 16J2291, Lecturer 140658387, Course Web Development II
+Processed: Student 76J23149, Lecturer 140658387, Course Web Development II
+Processed: Student 72J21154, Lecturer 140658387, Course Web Development II
+Processed: Student 76S1940, Lecturer 140658387, Course Web Development II
+Processed: Student 76J2114, Lecturer 140658387, Course Web Development II
+Processed: Student 2021593008, Lecturer 140658387, Course Web Development II
+Processed: Student 2021593028, Lecturer 140658387, Course Web Development II
+Processed: Student 2021593061, Lecturer 140658387, Course Web Development II
+Processed: Student 2021584089, Lecturer 140658387, Course Web Development II
+Processed: Student 2021593073, Lecturer 140658387, Course Web Development II
+Processed: Student 76S213, Lecturer 140658387, Course Web Development II
+Processed: Student 74J2117, Lecturer 140658387, Course Web Development II
+Processed: Student 76S2019, Lecturer 140658387, Course Web Development II
+Processed: Student 2021593066, Lecturer 140658387, Course Web Development II
+Processed: Student 76S211, Lecturer 140658387, Course Web Development II
+Processed: Student 76J2241, Lecturer 140658387, Course Web Development II
+Processed: Student 2021593077, Lecturer 140658387, Course Web Development II
+Processed: Student 2021593055, Lecturer 140658387, Course Web Development II
+Processed: Student 76S2127, Lecturer 140658387, Course Web Development II
+Processed: Student 76S218, Lecturer 140658387, Course Web Development II
+Processed: Student 76J2213, Lecturer 140658387, Course Web Development II
+Processed: Student 76S2132, Lecturer 140658387, Course Web Development II
+Processed: Student 146S22118, Lecturer 140658387, Course Web Development II
+Processed: Student 76J2260, Lecturer 706021, Course Web Development II
+Processed: Student 76S227, Lecturer 706021, Course Web Development II
+Processed: Student 76J2214, Lecturer 706021, Course Web Development II
+Processed: Student 146S2225, Lecturer 706021, Course Web Development II
+Processed: Student 76J2226, Lecturer 706021, Course Web Development II
+Processed: Student 72J2220, Lecturer 706021, Course Web Development II
+Processed: Student 76J2218, Lecturer 706021, Course Web Development II
+Processed: Student 76J226, Lecturer 706021, Course Web Development II
+Processed: Student 146S2241, Lecturer 706021, Course Web Development II
+Processed: Student 76S2125, Lecturer 706021, Course Web Development II
+Processed: Student 2021593068, Lecturer 706021, Course Web Development II
+Processed: Student 76S2124, Lecturer 706021, Course Web Development II
+Processed: Student 76J2210, Lecturer 706021, Course Web Development II
+Processed: Student 146S22221, Lecturer 706021, Course Web Development II
+Processed: Student 2021593032, Lecturer 706021, Course Web Development II
+Processed: Student 2021593041, Lecturer 706021, Course Web Development II
+Processed: Student 2021593083, Lecturer 706021, Course Web Development II
+Processed: Student 76J23150, Lecturer 706021, Course Web Development II
+Processed: Student 76S2135, Lecturer 706021, Course Web Development II
+Processed: Student 76J2337252, Lecturer 706021, Course Web Development II
+Processed: Student 76J2231, Lecturer 706021, Course Web Development II
+Processed: Student 2021593035, Lecturer 706021, Course Web Development II
+Processed: Student 2020593148, Lecturer 706021, Course Web Development II
+Processed: Student 76J227, Lecturer 706021, Course Web Development II
+Processed: Student 2021593022, Lecturer 706021, Course Web Development II
+Processed: Student 76S2133, Lecturer 706021, Course Web Development II
+Processed: Student 76J222, Lecturer 706021, Course Web Development II
+Processed: Student 76J1904, Lecturer 706013, Course Web Development II
+Processed: Student 146S2227, Lecturer 706013, Course Web Development II
+Processed: Student 146S22144, Lecturer 706013, Course Web Development II
+Processed: Student 71J20995, Lecturer 706013, Course Web Development II
+Processed: Student 76J2256, Lecturer 706013, Course Web Development II
+Processed: Student 146S22166, Lecturer 706013, Course Web Development II
+Processed: Student 76S2123, Lecturer 706013, Course Web Development II
+Processed: Student 76J2124, Lecturer 706013, Course Web Development II
+Processed: Student 2021593009, Lecturer 706013, Course Web Development II
+Processed: Student 146S2221, Lecturer 706013, Course Web Development II
+Processed: Student 146S22108, Lecturer 706013, Course Web Development II
+Processed: Student 76S225, Lecturer 706013, Course Web Development II
+Processed: Student 76S2240, Lecturer 706013, Course Web Development II
+Processed: Student 2021593074, Lecturer 706013, Course Web Development II
+Processed: Student 2021593002, Lecturer 706013, Course Web Development II
+Processed: Student 2021593012, Lecturer 706013, Course Web Development II
+Processed: Student 76S2218, Lecturer 706013, Course Web Development II
+Processed: Student 76S204, Lecturer 706013, Course Web Development II
+Processed: Student 76S2020, Lecturer 706013, Course Web Development II
+Processed: Student 2021593057, Lecturer 706013, Course Web Development II
+Processed: Student 76J2117, Lecturer 706013, Course Web Development II
+Processed: Student 76J2245, Lecturer 706013, Course Web Development II
+Processed: Student 2021593017, Lecturer 706013, Course Web Development II
+Processed: Student 76S229, Lecturer 706013, Course Web Development II
+Processed: Student 76S2110, Lecturer 706013, Course Web Development II
+Processed: Student 2021593067, Lecturer 706013, Course Web Development II
+Processed: Student 2021593063, Lecturer 706013, Course Web Development II
+Processed: Student 76J201, Lecturer 719007, Course Web Technologies
+Processed: Student 76J2039, Lecturer 719007, Course Web Technologies
+Processed: Student 76S1918, Lecturer 719007, Course Web Technologies
