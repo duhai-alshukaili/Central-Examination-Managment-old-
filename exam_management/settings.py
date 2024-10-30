@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'core.apps.CoreConfig',
+    'schedule.apps.ScheduleConfig'
 ]
 
 AUTH_USER_MODEL = 'core.User'
