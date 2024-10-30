@@ -1,4 +1,5 @@
 {% load static %}
+{% load app_tags %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,6 +25,12 @@
     <!-- Navbar, this block will be overridden in other templates if needed -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light px-3">
         <a class="navbar-brand" href="#">Exam Management</a>
+            <!-- Welcome message aligned to the left -->
+    {% if user.is_authenticated %}
+    <span class="navbar-text ms-3">
+        Welcome, {{ user.username|displayname }}
+    </span>
+{% endif %}
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
